@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "1",
+        "name" : "Dr PorusMistry",
+        "img" : "https://doximity-res.cloudinary.com/image/upload/t_profile_photo_320x320/rejhebw8zezv6czpj7vr.jpg",
+        "Specialties" : "MD Physician"
+    },
+    {
+        "id" : "2",
+        "name" : "DR. BRICK WALL",
+        "img" : "https://arley.thememountdemos.com/wp-content/uploads/2015/12/team-pic8.png",
+        "Specialties" : "General and Children’s Health"
+    },
+    {
+        "id" : "3",
+        "name" : "David B Truluck, MD",
+        "img" : "https://d2tgiyvz192tbr.cloudfront.net/providers/servlet/servlet.FileDownload?file=00P39000016fRFTEA2",
+        "Specialties" : "Cardiovascular Disease"
+    },
+    {
+        "id" : "4",
+        "name" : "Albert James Bonebrake",
+        "img" : "https://cdn-images.kyruus.com/providermatch/coxhealth/photos/500/bonebrake-albert-1881636090.jpg",
+        "Specialties" : "Gynecologic Oncology"
+    },
+    {
+        "id" : "5",
+        "name" : "Seth R. Bender, MD",
+        "img" : "https://nyulangone.org/images/doctors/b/bender/1578740478/seth-r-bender-square.jpg",
+        "Specialties" : "Cardiac Electrophysiology"
+    },
+    {
+        "id" : "6",
+        "name" : "Dr. Heather Swallow",
+        "img" : "https://images.squarespace-cdn.com/content/v1/5b1828aaf2e6b116c5a846e1/1535574368071-MKPOI31NTSE69QFYV04G/IMG_2666.JPG",
+        "Specialties" : "Natural Health"
+    }
+]
