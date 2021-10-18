@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "img": "https://www.ayushkamahealthcare.com/images/cbc-test.jpg",
+        "name": "Complete Blood Count",
+        "details" : "This test, also known as a CBC, is the most common blood test performed. It measures the types and numbers of cells in the blood, including red and white blood cells and platelets. This test is used to determine general health status, screen for disorders and evaluate nutritional status. It can help evaluate symptoms such as weakness, fatigue and bruising, and can help diagnose conditions such as anemia, leukemia, malaria and infection.",
+        "price": "500"
+    },
+    {
+        "id": "2",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3a69IWBB_P_QohKVGGkYyCgxVynjW_mfZ3w&usqp=CAU",
+        "name": "Prothrombin Time",
+        "details" : "Also known as PT and Pro Time, this test measures how long it takes blood to clot. This coagulation test measures the presence and activity of five different blood clotting factors. This test can screen for bleeding abnormalities, and may also be used to monitor medication treatments that prevent the formation of blood clots.",
+        "price": "600"
+    },
+    {
+        "id": "3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9r3iSu_yRROn9czy66tQOzKt6k1XSSQEQQ&usqp=CAU",
+        "name": "Basic Metabolic Panel",
+        "details" : "This test measures glucose, sodium, potassium, calcium, chloride, carbon dioxide, blood urea nitrogen and creatinine which can help determine blood sugar level, electrolyte and fluid balance as well as kidney function. The Basic Metabolic Panel can help your doctor monitor the effects of medications you are taking, such as high blood pressure medicines, can help diagnose certain conditions, or can be part of a routine health screening. You may need to fast for up to 12 hours before this test.",
+        "price": "550"
+    },
+    {
+        "id": "4",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0KfISN_ylLHZI5We9w7QYTMSsYCEZhR-Wg&usqp=CAU",
+        "name": "Comprehensive Metabolic Panel",
+        "details" : "This test combines the Basic Metabolic Panel with six more tests for a more comprehensive evaluation of metabolic functions, with a focus on organ systems.  is a blood test with 14 different measurements. It is often used to evaluate liver function,",
+        "price": "650"
+    },
+    {
+        "id": "5",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyMJS6ExclTFPrP_Feb-GfN68ycr85vj2vw&usqp=CAU",
+        "name": "Lipid Panel",
+        "details" : "The lipid panel is a group of tests used to evaluate cardiac risk. It includes cholesterol and triglyceride levels.  Lipids include cholesterol, triglycerides, high-density lipoprotein (HDL), and low-density lipoprotein (LDL). This panel measures: Total cholesterol level.",
+        "price": "570"
+    },
+    {
+        "id": "6",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6p-hgzjsEACX7F-j1AdMm-QWY3Dr4eJgOIQ&usqp=CAU",
+        "name": "Liver Panel",
+        "details" : "The liver panel is a combination of tests used to assess liver function and establish the possible presence of liver tumors. The test is conducted with a blood sample that is normally taken from a vein in your arm. A liver panel can be used to help diagnose and monitor liver diseases.",
+        "price": "500"
+    },
+    {
+        "id": "7",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivxHbhgewL30RGPrN9V9tLwfjrWikuRHFfw&usqp=CAU",
+        "name": "Hemoglobin A1C",
+        "details" : "The A1C test—also known as the hemoglobin A1C or HbA1c test—is a simple blood test that measures your average blood sugar levels over the past 3 months. It's one of the commonly used tests to diagnose prediabetes and diabetes, and is also the main test to help you and your health care team manage your diabetes.",
+        "price": "750"
+    },
+    {
+        "id": "8",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkEgQiYb7SCyvA7GlBl8p3hBmIfTVLOkn7Q&usqp=CAU",
+        "name": "urinalysis",
+        "details" : "A urinalysis is a simple test that looks at a small sample of your urine. It can help find problems that need treatment, including infections or kidney problems. It can also help find serious diseases in the early stages, like kidney disease, diabetes, or liver disease. A urinalysis is also called a “urine test.",
+        "price": "500"
+    },
+    {
+        "id": "9",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9ZNmwb40Sm3Q21TezObBejO0TuPfJP0PsA&usqp=CAU",
+        "name": "Cultures",
+        "details" : "Cultures are used to test for diagnosis and treatment of infections. Illnesses such as urinary tract infections, pneumonia, strep throat, MRSA and meningitis can be detected and tested for appropriate antibiotic treatment.",
+        "price": "550"
+    }
+]
